@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "./screen_time_env/Scripts/python.exe",  // Path to the Python interpreter in the virtual environment
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+  }
+  
